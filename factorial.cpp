@@ -14,8 +14,6 @@ int main()
     {
         factorial *= n;
         n--;
-
-        cout << "Return Factorial: " << factorial << endl;
     }
 
     cout << "The Factorial is: " << factorial << endl;
