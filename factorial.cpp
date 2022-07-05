@@ -12,7 +12,6 @@ int main()
 
     while (n > 1)
     {
-        cout << "Return n: " << n << endl;
         factorial *= n;
         n--;
 
